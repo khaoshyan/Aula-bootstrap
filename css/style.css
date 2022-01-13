@@ -1,3 +1,13 @@
 .navbar{
-    backgrou
+    background-color: rgb(210, 235, 141);
+}
+
+.quem-somos{
+    background-color: rgb(240, 234, 148) ;
+    color: rgba(209, 94, 0, 0.829);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
